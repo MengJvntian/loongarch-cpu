@@ -1,0 +1,1 @@
+使用kernel.bin文件进行串口仿真时，记得将async.v中的`define SIMULATION前的注释去掉，可以加快仿真
